@@ -1,0 +1,17 @@
+{
+  "name": "sabrian-flux-lines",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "React Bits FluxLines bundled locally for the SaBrian Digital Solutions home hero.",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}

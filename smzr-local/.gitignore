@@ -1,0 +1,14 @@
+node_modules/
+shots/
+
+# Original page HTML used only to rebuild locally. Not part of the published site.
+content/*.template.html
+scripts/build-*.mjs
+scripts/prepare-images.ps1
+
+# Local checks and screenshots
+test*.mjs
+test2.mjs
+diag.mjs
+canvas-check.mjs
+final-shots.mjs

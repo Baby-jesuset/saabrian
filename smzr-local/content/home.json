@@ -1,0 +1,273 @@
+{
+  "site": {
+    "title": "Custom Software & Web Development in Uganda | SaBrian Digital Solutions",
+    "description": "SaBrian Digital Solutions builds modern websites, custom software and business management systems for organisations in Uganda. Practical technology that streamlines operations and supports growth.",
+    "name": "Mwebesa Brian",
+    "brand": "SaBrian Digital Solutions",
+    "location": "Butogota",
+    "region": "Kanungu District, Western Uganda",
+    "email": "brianmwebesa119@gmail.com",
+    "logo": "/_astro/logo-white.svg",
+    "nav": ["Work", "Services", "About", "Contact"],
+    "hireMe": "Hire me",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/Baby-jesuset/",
+      "linkedinTitle": "Mwebesa Brian on LinkedIn",
+      "github": "https://github.com/Baby-jesuset/",
+      "githubTitle": "Baby-jesuset on GitHub"
+    },
+    "copyrightYear": 2026,
+    "copyrightName": "SaBrian Digital Solutions"
+  },
+  "hero": {
+    "badge": "Available for Projects – 2027",
+    "headlinePrefix": "Custom",
+    "headlineHighlight": "Software & Web Development",
+    "headlineSuffix": "in Uganda.",
+    "subhead": "I design and develop modern websites, custom software and digital solutions that help businesses streamline operations, improve efficiency and grow. From business websites to management systems, I turn ideas into practical technology solutions.",
+    "cta": "Start a project",
+    "ctaHref": "/contact",
+    "background": {
+      "colors": ["#f97316", "#34d399", "#ffffff"],
+      "speed": 0.45,
+      "scale": 1.6,
+      "turbulence": 1,
+      "fluidity": 0.1,
+      "rimWidth": 0.24,
+      "sharpness": 2.5,
+      "shimmer": 1.5,
+      "glow": 2.4,
+      "lineWidth": 1,
+      "flowDirection": "down",
+      "opacity": 1,
+      "mouseInteraction": true,
+      "mouseStrength": 1,
+      "mouseRadius": 0.35,
+      "mouseDampening": 0.15,
+      "clickSwirl": true,
+      "intro": true,
+      "mixBlendMode": "screen"
+    }
+  },
+  "problem": {
+    "kicker": "Stop fighting your tools",
+    "title": "Make your systems work for you.",
+    "body": "Off the shelf platforms often limit growth and cause disconnected workflows. I build custom digital infrastructure to fix this, writing code that connects systems and automates manual tasks.",
+    "image": "/_astro/problem-dashboard.jpg",
+    "imageAlt": "MRKT Edge market terminal dashboard"
+  },
+  "services": {
+    "kicker": "Custom solutions",
+    "title": "My Services",
+    "body": "I provide comprehensive digital solutions tailored to your business needs. I handle every part of your project, from design to deployment.",
+    "items": [
+      {
+        "title": "Website Development",
+        "body": "Your website is often the first interaction a client has with your business. I build high-performance, accessible, SEO-ready websites with clean code and custom CMS functionality, giving you full control without breaking the layout."
+      },
+      {
+        "title": "API & Data Integration",
+        "body": "Your software should not live in silos. I build middleware that connects your CRM, accounting software, and third-party services like Stripe, Xero, or Salesforce. I help you eliminate manual data entry and reduce human error."
+      },
+      {
+        "title": "Custom Business Software",
+        "body": "Complex problems require robust solutions. I build secure, scalable web applications using modern frameworks like React, Next.js and TypeScript. I engineer for performance, security, and long-term maintainability."
+      },
+      {
+        "title": "Mobile App Development",
+        "body": "Reach your customers (or staff) directly on their devices. I develop high-performance, cross-platform mobile applications. I deliver native-feeling apps for iOS and Android while reducing development and maintenance costs."
+      },
+      {
+        "title": "UI/UX Design",
+        "body": "Complex functionality fails if users cannot figure out how to use it. I design intuitive interfaces, wireframes, and prototypes that prioritize clarity and efficiency before a single line of code is written."
+      },
+      {
+        "title": "Cloud Hosting & Infrastructure",
+        "body": "Modern software requires modern infrastructure. I manage secure cloud deployments, automated backups, SSL certificates, and server performance. I ensure your applications remain fast, reliable, and protected."
+      }
+    ]
+  },
+  "about": {
+    "kicker": "About Me",
+    "title": "Practical Technology for Growing Businesses",
+    "intro": [
+      {
+        "label": "Who I Am",
+        "body": "I'm Brian Mwebesa, a software developer passionate about building technology that solves real-world problems. I combine technical knowledge, creativity and problem-solving to develop practical digital solutions."
+      },
+      {
+        "label": "What I Do",
+        "body": "I specialize in web development, custom software development, database management and business information systems. My focus is creating responsive, user-friendly and reliable solutions tailored to specific business needs."
+      },
+      {
+        "label": "My Approach",
+        "body": "I believe technology should make business operations easier, not more complicated. I focus on understanding each client's needs, designing intuitive interfaces and developing systems that are secure, scalable and easy to maintain."
+      },
+      {
+        "label": "My Mission",
+        "body": "My mission is to help individuals, startups and established businesses embrace digital transformation through affordable, effective and innovative technology solutions."
+      }
+    ],
+    "images": [
+      {
+        "src": "/_astro/portrait-brian.jpg",
+        "alt": "Mwebesa Brian"
+      },
+      {
+        "src": "/_astro/about-brand-card.svg",
+        "alt": "SaBrian Digital Solutions"
+      }
+    ]
+  },
+  "experience": {
+    "kicker": "My experience",
+    "items": [
+      {
+        "role": "Enterprise-Level Discipline",
+        "body": "Whatever I'm writing, I treat it as if it were an enterprise application. Clean architecture that scales with your business."
+      },
+      {
+        "role": "Healthcare Websites",
+        "body": "Built the public site for Bwindi Community Hospital in Kanungu, bringing services, departments, news and appointment forms into one place."
+      },
+      {
+        "role": "Business Systems",
+        "body": "Designed loan-management and hardware-store systems for Ugandan organisations, covering applicants, inventory, checkout, accounts and reporting."
+      }
+    ]
+  },
+  "projects": {
+    "kicker": "Showcase",
+    "title": "Some of my work",
+    "subhead": "A selection of websites, dashboards and business systems I've designed and built — from photography portfolios and learning platforms to loan management and e-commerce.",
+    "slides": [
+      {
+        "title": "Mek Elias — Photographer Portfolio",
+        "url": "https://github.com/Baby-jesuset",
+        "urlText": "github.com/Baby-jesuset",
+        "label": "Frontend · React + TypeScript",
+        "body": [
+          "An immersive visual portfolio for Ugandan photographer and visual artist Mek Elias, designed to showcase fine-art photography, editorial work and creative direction through cinematic, media-first presentation.",
+          "Built with React 18, TypeScript and Vite, the site combines Tailwind CSS and Radix UI with a fullscreen hero slideshow, responsive masonry galleries, an accessible lightbox, category filtering and a validated inquiry form."
+        ],
+        "image": "/_astro/project-photographer.jpg",
+        "imageAlt": "Mek Elias photography portfolio"
+      },
+      {
+        "title": "Junior AI — EdTech Platform",
+        "url": "https://github.com/Baby-jesuset",
+        "urlText": "github.com/Baby-jesuset",
+        "label": "Frontend · EdTech Platform",
+        "body": [
+          "An interactive EdTech platform that introduces learners aged 11–16 to artificial intelligence, robotics and data science through gamified course tracks, peer showcases and parent resources.",
+          "Built with React, TypeScript and Vite, it includes multi-criteria course discovery, a community feed, a parent and educator resource centre, tiered pricing and a mobile-first interface styled with Tailwind CSS and Radix UI."
+        ],
+        "image": "/_astro/project-junior-ai.jpg",
+        "imageAlt": "Junior AI EdTech learning platform"
+      },
+      {
+        "title": "MRKT Edge — Landing",
+        "url": "https://github.com/Baby-jesuset",
+        "urlText": "github.com/Baby-jesuset",
+        "label": "Frontend · Market Intelligence",
+        "body": [
+          "Landing page for MRKT Edge, a private market-intelligence terminal. Built with React 19, TanStack Start and strict TypeScript, it presents the product's risk-on/risk-off composite, bias cards, hand-drawn SVG charts and macro calendar with per-route SEO metadata."
+        ],
+        "image": "/_astro/project-mrkt-edge.jpg",
+        "imageAlt": "MRKT Edge market intelligence landing page"
+      },
+      {
+        "title": "MRKT Edge — Terminal",
+        "url": "https://github.com/Baby-jesuset",
+        "urlText": "github.com/Baby-jesuset",
+        "label": "Frontend · Market Terminal",
+        "body": [
+          "The terminal itself: a single dark screen combining a risk-on/risk-off gauge, DXY sparkline, gold bias with confidence, event countdown, expandable asset bias cards, a 13-candle SVG chart, impact-scored headlines, COT positioning and the macro calendar."
+        ],
+        "image": "/_astro/project-mrkt-edge-terminal.jpg",
+        "imageAlt": "MRKT Edge trading terminal dashboard"
+      },
+      {
+        "title": "Bwindi Community Hospital",
+        "url": "https://github.com/Baby-jesuset/bwindicommunity",
+        "urlText": "github.com/Baby-jesuset/bwindicommunity",
+        "label": "Healthcare Website · Full-Stack",
+        "body": [
+          "A responsive, server-rendered website for Bwindi Community Hospital in Kanungu, Uganda. It brings services, departments, education, community health, projects, team, news, gallery and contact pages together with a preserved archive of the hospital's published content and Supabase-backed appointment and contact forms."
+        ],
+        "image": "/_astro/project-bwindi.jpg",
+        "imageAlt": "Bwindi Community Hospital website"
+      },
+      {
+        "title": "Pearl Bridge — Loan Management",
+        "url": "https://github.com/Baby-jesuset/shadrach-loans",
+        "urlText": "github.com/Baby-jesuset/shadrach-loans",
+        "label": "Full-Stack Web App",
+        "body": [
+          "A migration-lending dashboard for managing overseas applicants, travel stages, SACCO loans, guarantors, repayments and portfolio reporting. Built with React, TanStack Start, TypeScript, Zod and Recharts, with typed workflow models, interest and repayment calculations, validated forms and in-memory demo data."
+        ],
+        "image": "/_astro/project-pearl-bridge.jpg",
+        "imageAlt": "Pearl Bridge loan management dashboard"
+      },
+      {
+        "title": "FB General Hardware — E-commerce",
+        "url": "https://github.com/Baby-jesuset/FBGENERALHW-sj",
+        "urlText": "github.com/Baby-jesuset/FBGENERALHW-sj",
+        "label": "Full-Stack E-Commerce",
+        "body": [
+          "A full-stack Next.js e-commerce platform for a Ugandan hardware store. It covers product browsing, category filtering, a persistent cart, checkout, Supabase authentication, account pages and a protected admin dashboard, backed by PostgreSQL schemas and transactional order creation."
+        ],
+        "image": "/_astro/project-fb-hardware.jpg",
+        "imageAlt": "FB General Hardware e-commerce store"
+      },
+      {
+        "title": "Mwebesa Brian — Personal Portfolio",
+        "url": "https://github.com/Baby-jesuset",
+        "urlText": "github.com/Baby-jesuset",
+        "label": "Personal Portfolio",
+        "body": [
+          "A personal portfolio for Mwebesa Brian, focused on UI/UX and product development. The site pairs a bold typographic hero with project galleries, an about section and a contact path, presenting selected work in a clear, confident layout."
+        ],
+        "image": "/_astro/project-portfolio.jpg",
+        "imageAlt": "Mwebesa Brian personal portfolio"
+      }
+    ]
+  },
+  "testimonial": {
+    "quote": "SaBrian demonstrated professionalism and a good understanding of our business needs. His approach to technology and problem-solving made the entire experience worthwhile. I would recommend his services to businesses looking for reliable digital solutions.",
+    "name": "OJ",
+    "company": "FB General Hardware",
+    "companyUrl": "https://github.com/Baby-jesuset/FBGENERALHW-sj",
+    "image": "/_astro/logo-white.svg",
+    "imageAlt": "SaBrian Digital Solutions"
+  },
+  "skills": [
+    "React",
+    "TypeScript",
+    "Next.js",
+    "TanStack Start",
+    "Tailwind CSS",
+    "Supabase",
+    "PostgreSQL",
+    "Node.js",
+    "Vite",
+    "Radix UI",
+    "React Hook Form",
+    "Zod"
+  ],
+  "contact": {
+    "title": "Let's Chat",
+    "subhead": "Need a website, custom system or digital partner?",
+    "cta": "Get in touch",
+    "body": "to discuss your project.",
+    "note": "I'm always happy to answer questions and share more about how I can help.",
+    "email": "brianmwebesa119@gmail.com",
+    "emailLabel": "→ brianmwebesa119@gmail.com"
+  },
+  "images": {
+    "logo": "/_astro/logo-white.svg",
+    "portrait": "/_astro/placeholder-portrait.svg",
+    "testimonial": "/_astro/logo-white.svg",
+    "social": "/_astro/project-portfolio.jpg"
+  }
+}

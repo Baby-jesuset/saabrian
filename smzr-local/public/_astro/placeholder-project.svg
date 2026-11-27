@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" fill="none">
+  <rect width="1920" height="1080" fill="#0d1f1b"/>
+  <rect x="100" y="80" width="1720" height="920" rx="8" fill="#061309" stroke="#b45309" stroke-width="2"/>
+  <text x="960" y="520" font-family="Montserrat, sans-serif" font-size="40" font-weight="800" fill="#b45309" text-anchor="middle" dominant-baseline="middle">[Project Image]</text>
+  <text x="960" y="580" font-family="Montserrat, sans-serif" font-size="20" fill="#6b7280" text-anchor="middle">Replace with your project screenshot</text>
+</svg>

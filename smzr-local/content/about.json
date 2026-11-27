@@ -1,0 +1,136 @@
+{
+  "site": {
+    "title": "About Mwebesa Brian — Software Developer in Uganda | SaBrian Digital Solutions",
+    "description": "I'm Mwebesa Brian, the software developer behind SaBrian Digital Solutions. I build websites, custom software and business systems for organisations across Uganda.",
+    "name": "Mwebesa Brian",
+    "brand": "SaBrian Digital Solutions",
+    "location": "Butogota",
+    "region": "Kanungu District, Western Uganda",
+    "email": "brianmwebesa119@gmail.com",
+    "logo": "/_astro/logo-white.svg",
+    "nav": ["Work", "Services", "About", "Contact"],
+    "hireMe": "Hire me",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/Baby-jesuset/",
+      "linkedinTitle": "Mwebesa Brian on LinkedIn",
+      "github": "https://github.com/Baby-jesuset/",
+      "githubTitle": "Baby-jesuset on GitHub"
+    },
+    "copyrightYear": 2026,
+    "copyrightName": "SaBrian Digital Solutions"
+  },
+  "hero": {
+    "kicker": "Introduction",
+    "greeting": "Hello! I'm",
+    "highlight": "Brian.",
+    "body": "I am the software developer behind SaBrian Digital Solutions. I help businesses build the digital tools they need to grow, without the overhead of a large agency.",
+    "cta": "Start a Project",
+    "statusLabel": "Current status",
+    "status": "Available for Projects – 2027"
+  },
+  "lanyard": {
+    "front": "/_astro/lanyard-front.jpg",
+    "back": "/_astro/lanyard-back.jpg",
+    "posterAlt": "Mwebesa Brian",
+    "imageFit": "cover",
+    "cardColor": "#0d1f1b",
+    "orientation": "portrait",
+    "finish": "glossy-soft",
+    "cornerRadius": 0.35,
+    "size": 0.56,
+    "anchor": "center",
+    "strapLength": 0.45,
+    "strapColor": "#0d1f1b",
+    "strapWidth": 0.65,
+    "metal": "gold",
+    "gravity": 1,
+    "damping": 0.55,
+    "elasticity": 0.5,
+    "breeze": 0.4,
+    "interactive": true,
+    "intro": true,
+    "hint": "Drag the card · click to flip"
+  },
+  "philosophy": {
+    "kicker": "The Philosophy",
+    "titleLine1": "Stop fighting your tools.",
+    "titleLine2": "Make your systems work for you.",
+    "intro": "If you need custom software, you usually have two choices...",
+    "agencyLabel": "The Agency",
+    "agencyBody": "Big agencies are usually reliable and skilled, but expensive. You pay for their office, their account managers, and their overheads. You rarely speak to the person writing your code.",
+    "freelancerLabel": "The Freelancer",
+    "freelancerBody": "Freelancers are usually cheaper, but sometimes unreliable. They might vanish halfway through a project or write code that breaks as soon as you scale.",
+    "quoteTitle": "I built SaBrian Digital Solutions to be the middle ground.",
+    "quoteBody": "I offer the technical discipline and architectural knowledge of a senior agency developer, but with the agility and direct communication of a freelancer. You work directly with me. No account managers and no lost in translation. You get direct access to the engineer solving your problem.",
+    "image": "/_astro/philosophy-card.svg",
+    "imageAlt": "SaBrian Digital Solutions — websites, custom software and business systems"
+  },
+  "experience": {
+    "kicker": "Track Record",
+    "title": "My Experience",
+    "bodyPrefix": "I build websites, dashboards and business systems for organisations across Uganda — from healthcare and community services to retail and lending. My background is in full-stack",
+    "linkText": "web applications",
+    "items": [
+      {
+        "chips": ["React", "TypeScript", "Next.js", "Supabase"],
+        "title": "Enterprise-Level Discipline",
+        "body": "Whether I'm writing React for a user interface, TypeScript for business logic, or configuring Supabase and PostgreSQL, I build systems designed to last. I focus on clean architecture that scales with your business."
+      },
+      {
+        "chips": ["Next.js", "Supabase", "PostgreSQL"],
+        "title": "Healthcare Websites",
+        "body": "Built the public site for Bwindi Community Hospital in Kanungu, bringing services, departments, news and appointment forms into one place."
+      },
+      {
+        "chips": ["React", "TanStack Start", "Zod"],
+        "title": "Business Systems",
+        "body": "Designed loan-management and hardware-store systems for Ugandan organisations, covering applicants, inventory, checkout, accounts and reporting."
+      }
+    ],
+    "stats": [
+      { "value": "Full-Stack", "label": "Web & Software" },
+      { "value": "End-to-End", "label": "Design to Deployment" },
+      { "value": "Direct", "label": "No Middlemen" }
+    ],
+    "workLabel": "See my work"
+  },
+  "location": {
+    "image": "/_astro/about-location.jpg",
+    "imageAlt": "Pearl Bridge loan management dashboard",
+    "badge": "Butogota, Kanungu District",
+    "kicker": "Western Uganda Based",
+    "title": "Software developer in Western Uganda",
+    "body": [
+      "I work with organisations across Uganda and remotely with clients further afield. Being based in Butogota keeps me close to the people and projects I build for.",
+      "I am always happy to meet for a coffee to sketch out ideas or review a project scope."
+    ],
+    "cta": "Start a Project"
+  },
+  "skills": [
+    "React",
+    "TypeScript",
+    "Next.js",
+    "TanStack Start",
+    "Tailwind CSS",
+    "Supabase",
+    "PostgreSQL",
+    "Node.js",
+    "Vite",
+    "Radix UI",
+    "React Hook Form",
+    "Zod"
+  ],
+  "contact": {
+    "title": "Let's Chat",
+    "subhead": "Need a website, custom system or digital partner?",
+    "cta": "Get in touch",
+    "body": "to discuss your project.",
+    "note": "I'm always happy to answer questions and share more about how I can help.",
+    "email": "brianmwebesa119@gmail.com",
+    "emailLabel": "→ brianmwebesa119@gmail.com"
+  },
+  "images": {
+    "social": "/_astro/project-portfolio.jpg"
+  }
+}
+

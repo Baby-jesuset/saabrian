@@ -1,0 +1,8 @@
+{
+  "name": "sabrian-portfolio",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-home.mjs && node scripts/build-about.mjs && node scripts/build-work.mjs && node scripts/build-services.mjs && node scripts/build-contact.mjs",
+    "start": "node server.mjs"
+  }
+}
