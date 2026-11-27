@@ -8,7 +8,12 @@
     "region": "Kanungu District, Western Uganda",
     "email": "brianmwebesa119@gmail.com",
     "logo": "/_astro/logo-white.svg",
-    "nav": ["Work", "Services", "About", "Contact"],
+    "nav": [
+      "Work",
+      "Services",
+      "About",
+      "Contact"
+    ],
     "hireMe": "Hire me",
     "social": {
       "linkedin": "https://www.linkedin.com/in/Baby-jesuset/",
@@ -28,7 +33,11 @@
     "cta": "Start a project",
     "ctaHref": "/contact",
     "background": {
-      "colors": ["#f97316", "#34d399", "#ffffff"],
+      "colors": [
+        "#f97316",
+        "#34d399",
+        "#ffffff"
+      ],
       "speed": 0.45,
       "scale": 1.6,
       "turbulence": 1,
@@ -154,38 +163,15 @@
         "imageAlt": "Mek Elias photography portfolio"
       },
       {
-        "title": "Junior AI — EdTech Platform",
+        "title": "Mwebesa Brian — Personal Portfolio",
         "url": "https://github.com/Baby-jesuset",
         "urlText": "github.com/Baby-jesuset",
-        "label": "Frontend · EdTech Platform",
+        "label": "Personal Portfolio",
         "body": [
-          "An interactive EdTech platform that introduces learners aged 11–16 to artificial intelligence, robotics and data science through gamified course tracks, peer showcases and parent resources.",
-          "Built with React, TypeScript and Vite, it includes multi-criteria course discovery, a community feed, a parent and educator resource centre, tiered pricing and a mobile-first interface styled with Tailwind CSS and Radix UI."
+          "A personal portfolio for Mwebesa Brian, focused on UI/UX and product development. The site pairs a bold typographic hero with project galleries, an about section and a contact path, presenting selected work in a clear, confident layout."
         ],
-        "image": "/_astro/project-junior-ai.jpg",
-        "imageAlt": "Junior AI EdTech learning platform"
-      },
-      {
-        "title": "MRKT Edge — Landing",
-        "url": "https://github.com/Baby-jesuset",
-        "urlText": "github.com/Baby-jesuset",
-        "label": "Frontend · Market Intelligence",
-        "body": [
-          "Landing page for MRKT Edge, a private market-intelligence terminal. Built with React 19, TanStack Start and strict TypeScript, it presents the product's risk-on/risk-off composite, bias cards, hand-drawn SVG charts and macro calendar with per-route SEO metadata."
-        ],
-        "image": "/_astro/project-mrkt-edge.jpg",
-        "imageAlt": "MRKT Edge market intelligence landing page"
-      },
-      {
-        "title": "MRKT Edge — Terminal",
-        "url": "https://github.com/Baby-jesuset",
-        "urlText": "github.com/Baby-jesuset",
-        "label": "Frontend · Market Terminal",
-        "body": [
-          "The terminal itself: a single dark screen combining a risk-on/risk-off gauge, DXY sparkline, gold bias with confidence, event countdown, expandable asset bias cards, a 13-candle SVG chart, impact-scored headlines, COT positioning and the macro calendar."
-        ],
-        "image": "/_astro/project-mrkt-edge-terminal.jpg",
-        "imageAlt": "MRKT Edge trading terminal dashboard"
+        "image": "/_astro/project-portfolio.jpg",
+        "imageAlt": "Mwebesa Brian personal portfolio"
       },
       {
         "title": "Bwindi Community Hospital",
@@ -197,6 +183,18 @@
         ],
         "image": "/_astro/project-bwindi.jpg",
         "imageAlt": "Bwindi Community Hospital website"
+      },
+      {
+        "title": "Junior AI — EdTech Platform",
+        "url": "https://github.com/Baby-jesuset",
+        "urlText": "github.com/Baby-jesuset",
+        "label": "Frontend · EdTech Platform",
+        "body": [
+          "An interactive EdTech platform that introduces learners aged 11–16 to artificial intelligence, robotics and data science through gamified course tracks, peer showcases and parent resources.",
+          "Built with React, TypeScript and Vite, it includes multi-criteria course discovery, a community feed, a parent and educator resource centre, tiered pricing and a mobile-first interface styled with Tailwind CSS and Radix UI."
+        ],
+        "image": "/_astro/project-junior-ai.jpg",
+        "imageAlt": "Junior AI EdTech learning platform"
       },
       {
         "title": "Pearl Bridge — Loan Management",
@@ -221,15 +219,26 @@
         "imageAlt": "FB General Hardware e-commerce store"
       },
       {
-        "title": "Mwebesa Brian — Personal Portfolio",
+        "title": "MRKT Edge — Landing",
         "url": "https://github.com/Baby-jesuset",
         "urlText": "github.com/Baby-jesuset",
-        "label": "Personal Portfolio",
+        "label": "Frontend · Market Intelligence",
         "body": [
-          "A personal portfolio for Mwebesa Brian, focused on UI/UX and product development. The site pairs a bold typographic hero with project galleries, an about section and a contact path, presenting selected work in a clear, confident layout."
+          "Landing page for MRKT Edge, a private market-intelligence terminal. Built with React 19, TanStack Start and strict TypeScript, it presents the product's risk-on/risk-off composite, bias cards, hand-drawn SVG charts and macro calendar with per-route SEO metadata."
         ],
-        "image": "/_astro/project-portfolio.jpg",
-        "imageAlt": "Mwebesa Brian personal portfolio"
+        "image": "/_astro/project-mrkt-edge.jpg",
+        "imageAlt": "MRKT Edge market intelligence landing page"
+      },
+      {
+        "title": "MRKT Edge — Terminal",
+        "url": "https://github.com/Baby-jesuset",
+        "urlText": "github.com/Baby-jesuset",
+        "label": "Frontend · Market Terminal",
+        "body": [
+          "The terminal itself: a single dark screen combining a risk-on/risk-off gauge, DXY sparkline, gold bias with confidence, event countdown, expandable asset bias cards, a 13-candle SVG chart, impact-scored headlines, COT positioning and the macro calendar."
+        ],
+        "image": "/_astro/project-mrkt-edge-terminal.jpg",
+        "imageAlt": "MRKT Edge trading terminal dashboard"
       }
     ]
   },
