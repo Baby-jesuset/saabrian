@@ -2,6 +2,9 @@
 
 Portfolio for Mwebesa Brian. The live site is the static files in `public/`.
 
+The original project screenshots, portraits, and brand files used by the image
+preparation script are stored in `assets/source-images/`.
+
 ## Preview
 
 ```bash

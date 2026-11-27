@@ -94,7 +94,7 @@ update `skills`, `contact` and `site.social` in both files when those change.
 The About hero portrait is a draggable 3D ID card. Click it to flip between the neon
 front and the black-and-white back; drag to swing it; it settles back to rest.
 
-Source and build live in `smzr-local/lanyard/`:
+Source and build live in `lanyard/`:
 
 ```
 lanyard/
@@ -147,7 +147,7 @@ implemented yet — flipping is pointer-only.
 
 The hero's WebGL "dither" background has been replaced with flowing light lines.
 
-Source and build live in `smzr-local/flux-lines/`:
+Source and build live in `flux-lines/`:
 
 ```
 flux-lines/
@@ -209,9 +209,7 @@ file into `public/_astro/` and update the matching path in `home.json` / `about.
 
 ### Regenerating images
 
-Screenshots are read from `C:\Users\user\Downloads\images\`; the portrait photos
-(`lanyard frontimage.png`, `lanyard backimage.png`) are read from
-`C:\Users\user\Downloads\`. From `smzr-local/`:
+Original project screenshots, portraits and brand source files live in `assets/source-images/`. From the repository root:
 
 ```powershell
 powershell -NoProfile -ExecutionPolicy Bypass -File scripts/prepare-images.ps1
@@ -235,7 +233,7 @@ node scripts/make-philosophy-card.mjs
 
 ## 5. Rebuild the pages
 
-From `smzr-local/`:
+From the repository root:
 
 ```bash
 node scripts/build-home.mjs
