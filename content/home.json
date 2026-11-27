@@ -151,7 +151,7 @@
     "subhead": "A selection of websites, dashboards and business systems I've designed and built — from photography portfolios and learning platforms to loan management and e-commerce.",
     "slides": [
       {
-        "title": "Mek Elias — Photographer Portfolio",
+        "title": "Photographer Portfolio",
         "url": "https://github.com/Baby-jesuset",
         "urlText": "github.com/Baby-jesuset",
         "label": "Frontend · React + TypeScript",
@@ -163,7 +163,7 @@
         "imageAlt": "Mek Elias photography portfolio"
       },
       {
-        "title": "Mwebesa Brian — Personal Portfolio",
+        "title": "Personal Portfolio",
         "url": "https://github.com/Baby-jesuset",
         "urlText": "github.com/Baby-jesuset",
         "label": "Personal Portfolio",
@@ -174,7 +174,7 @@
         "imageAlt": "Mwebesa Brian personal portfolio"
       },
       {
-        "title": "Bwindi Community Hospital",
+        "title": "Bwindi",
         "url": "https://github.com/Baby-jesuset/bwindicommunity",
         "urlText": "github.com/Baby-jesuset/bwindicommunity",
         "label": "Healthcare Website · Full-Stack",
@@ -185,7 +185,7 @@
         "imageAlt": "Bwindi Community Hospital website"
       },
       {
-        "title": "Junior AI — EdTech Platform",
+        "title": "EdTech",
         "url": "https://github.com/Baby-jesuset",
         "urlText": "github.com/Baby-jesuset",
         "label": "Frontend · EdTech Platform",
@@ -197,7 +197,7 @@
         "imageAlt": "Junior AI EdTech learning platform"
       },
       {
-        "title": "Pearl Bridge — Loan Management",
+        "title": "Loan Management",
         "url": "https://github.com/Baby-jesuset/shadrach-loans",
         "urlText": "github.com/Baby-jesuset/shadrach-loans",
         "label": "Full-Stack Web App",
@@ -208,7 +208,7 @@
         "imageAlt": "Pearl Bridge loan management dashboard"
       },
       {
-        "title": "FB General Hardware — E-commerce",
+        "title": "E-commerce",
         "url": "https://github.com/Baby-jesuset/FBGENERALHW-sj",
         "urlText": "github.com/Baby-jesuset/FBGENERALHW-sj",
         "label": "Full-Stack E-Commerce",
@@ -219,7 +219,7 @@
         "imageAlt": "FB General Hardware e-commerce store"
       },
       {
-        "title": "MRKT Edge — Landing",
+        "title": "MRKT Edge",
         "url": "https://github.com/Baby-jesuset",
         "urlText": "github.com/Baby-jesuset",
         "label": "Frontend · Market Intelligence",
@@ -230,7 +230,7 @@
         "imageAlt": "MRKT Edge market intelligence landing page"
       },
       {
-        "title": "MRKT Edge — Terminal",
+        "title": "Terminal",
         "url": "https://github.com/Baby-jesuset",
         "urlText": "github.com/Baby-jesuset",
         "label": "Frontend · Market Terminal",
